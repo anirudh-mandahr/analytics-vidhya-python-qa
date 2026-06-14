@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets & local config
+.env
+
+# Data (Kaggle CSVs are ~2 GB — never commit them)
+data/
+*.csv
+
+# Model / HF caches
+.cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

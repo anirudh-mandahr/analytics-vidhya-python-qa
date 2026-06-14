@@ -1,0 +1,12 @@
+.git
+.env
+data/
+*.csv
+tests/
+eval/
+docs/
+ingestion/
+__pycache__/
+.pytest_cache/
+.venv/
+README.md

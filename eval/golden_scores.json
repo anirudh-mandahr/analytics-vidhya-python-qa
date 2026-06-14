@@ -1,0 +1,181 @@
+{
+  "metrics": {
+    "n_cases": 12,
+    "answerable_recall": 1.0,
+    "refusal_precision": 0.5,
+    "citation_rate": 0.9,
+    "expected_source_hit": 1.0,
+    "mean_latency_ms": 13502.6,
+    "p95_latency_ms": 38424.7
+  },
+  "rows": [
+    {
+      "q": "How do I merge two dictionaries in Python?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": 15677693,
+      "source_ids": [
+        15677693,
+        2365921,
+        10461531,
+        8930915,
+        11011756
+      ]
+    },
+    {
+      "q": "What is the difference between a list and a tuple?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": 626759,
+      "source_ids": [
+        626759,
+        3357984,
+        2280881,
+        42034,
+        68630
+      ]
+    },
+    {
+      "q": "How do I iterate over rows of a pandas DataFrame?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": 16476924,
+      "source_ids": [
+        16476924,
+        26309962,
+        17071871,
+        26640145,
+        28006793
+      ]
+    },
+    {
+      "q": "What does the Global Interpreter Lock do?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": 265687,
+      "source_ids": [
+        265687,
+        1294382,
+        5177895,
+        1222929,
+        651048
+      ]
+    },
+    {
+      "q": "How do Python decorators work?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": 3860539,
+      "source_ids": [
+        3860539,
+        2531696,
+        8328824,
+        5764922,
+        7120342
+      ]
+    },
+    {
+      "q": "How do I read a file line by line in Python?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": null,
+      "source_ids": [
+        3277503,
+        2444538,
+        3568833,
+        6720417,
+        1657299
+      ]
+    },
+    {
+      "q": "What is the difference between __str__ and __repr__?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": null,
+      "source_ids": [
+        1436703,
+        3691101,
+        7490261,
+        4661851,
+        3764360
+      ]
+    },
+    {
+      "q": "How do I reverse a list in Python?",
+      "answerable": true,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": null,
+      "source_ids": [
+        11486922,
+        3940128,
+        990934,
+        3794486,
+        6810036
+      ]
+    },
+    {
+      "q": "What is the best Java web framework?",
+      "answerable": false,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": true,
+      "expected_id": null,
+      "source_ids": [
+        8848285,
+        706405,
+        202939,
+        14806748,
+        2954036
+      ]
+    },
+    {
+      "q": "How do I center a div in CSS?",
+      "answerable": false,
+      "grounded": false,
+      "n_sources": 0,
+      "cited": false,
+      "expected_id": null,
+      "source_ids": []
+    },
+    {
+      "q": "My code is broken. Fix it.",
+      "answerable": false,
+      "grounded": false,
+      "n_sources": 0,
+      "cited": false,
+      "expected_id": null,
+      "source_ids": []
+    },
+    {
+      "q": "How does the walrus operator := work in Python 3.8?",
+      "answerable": false,
+      "grounded": true,
+      "n_sources": 5,
+      "cited": false,
+      "expected_id": null,
+      "source_ids": [
+        3647692,
+        6725559,
+        15777992,
+        37313471,
+        38834770
+      ]
+    }
+  ]
+}
